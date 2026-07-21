@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "11ecbcb80dd57a017a848d5d0aa9d52d43dff44febb5d74a17d3be11ae3e9a09"
+hash = "999286eb37c4215cf81b047fa656544a0da88f2f6ab31fe251d8bbb9507ec5f3"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "a0fcf674a50b9b670c5e7eb0175755c6247832a5b7808231cc8d49de2265c6fd"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -116,6 +120,11 @@ hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "5b422966b0ae2a53638c0a54e69b7968e6780ca46776c59cb7fea95968c45e3e"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "541e9540163d37863f9a2f0660823d4cb15a7de001886d82960803a57e485024"
 metafile = true
@@ -186,6 +195,11 @@ hash = "0cb4ed164497dca332e98923e2d371ca1ec2c43c53de3d584bf9889e7d5b65b0"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ed9591c011a3b33d3def72cbc1e8e63da862f2f3de090858b9ca42af2d523b20"
+metafile = true
+
+[[files]]
 file = "mods/squaremap.pw.toml"
 hash = "798b2e1aeee88e52cc70cca4c51134639cebd214a3f52e0a0913e51b0b1adbe3"
 metafile = true
@@ -228,6 +242,16 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "d76577eb98ad277432d1f1f436d8dded1ec35401d32368c4e3cde52f5acc80ea"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "5af5b37765d2ba26a6e4ec8be0dd8bd6215ce0b05d98dc6dc9b3050341d94e70"
 metafile = true
 
 [[files]]
