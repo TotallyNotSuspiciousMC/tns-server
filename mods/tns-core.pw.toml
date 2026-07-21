@@ -1,0 +1,8 @@
+name = "TNS Core"
+filename = "tns-core-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TotallyNotSuspiciousMC/tns-core/releases/download/3.0.0/tns-core-3.0.0.jar"
+hash-format = "sha512"
+hash = "10a880803ff66b11162bf86d0a071e147fe635d39f8a5d049ee836709f1031d24e1817b3ca3611678f148e0efa816a92503f17c7bd12ce46eddabeb111f99638"
