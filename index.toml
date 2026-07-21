@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "1d07aae485a2a92527e66367b656e743ec6e84471296f2f93bee163de3eb5460"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "1463a48bb8bc19dbc6d59231a65c122e0a21e52ff74c333bbbef187a2df1e5a8"
 metafile = true
@@ -41,6 +46,11 @@ hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/image2map.pw.toml"
 hash = "437f5808a1bda97b1460c6cb667badc8c55e22da2f283ed01e625879291cb59c"
+metafile = true
+
+[[files]]
+file = "mods/inv-restore.pw.toml"
+hash = "cc6244c0eef004baa6f959daed77e62c2ab4ac323c0f33239866fd42a581edd4"
 metafile = true
 
 [[files]]
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "116e9509fc5f1001b639e925c2554ea68f418e3c2538f48023ef315f208c5b00"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
 
 [[files]]
@@ -183,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "acc335fab0a09c3930d5a755a6b16da3b87336ef8f5f4bd4458a793359995786"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
 metafile = true
 
 [[files]]
