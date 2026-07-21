@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "999286eb37c4215cf81b047fa656544a0da88f2f6ab31fe251d8bbb9507ec5f3"
+hash = "018fd22df923f25d24f5a3e605127a296b75b788359d51a9772e63ef4d33f585"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "a0fcf674a50b9b670c5e7eb0175755c6247832a5b7808231cc8d49de2265c6fd"
+
+[[files]]
+file = "config/polymer/auto-host.json"
+hash = "40871ba6cc6c7e7dee39155e942c6fb559cbe9c29d8852b5d7cb4e7dbb1c35ee"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -23,6 +27,10 @@ hash = "807b325d82e3cbff63f351283912a53860f87c666427e73ffb2649b42f247a86"
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
 hash = "caaf3d284dd996adac6de3101f10eeaa89de02724dc659afe6266f8a364d23a6"
+
+[[files]]
+file = "config/terralith.json"
+hash = "f1993bd80e43ddd914b772fd43422fcbfac584baaca3b3998333382cac0f7ae8"
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
@@ -72,6 +80,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-polymer.pw.toml"
+hash = "ce231450983fd9afc2fef902a368394e9eea69b3c2772e5cdcabf777e8a2662c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "57d378aaacf52e4938645310543db33a5ae1d89029eeeeadbcb939a3fcc36202"
 metafile = true
 
 [[files]]
@@ -237,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "acc335fab0a09c3930d5a755a6b16da3b87336ef8f5f4bd4458a793359995786"
+metafile = true
+
+[[files]]
+file = "mods/vaulted-end.pw.toml"
+hash = "264bfb916cda00b9edf1deee458d2536a6f6b4876447d174ec67957c9b868502"
 metafile = true
 
 [[files]]

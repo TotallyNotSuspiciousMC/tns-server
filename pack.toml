@@ -1,12 +1,12 @@
 name = "Tns Server"
 author = "TheDeathlyCow"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "483132f675791994b5a429092e8babfa93f9e670373788f23dd27936eb721adc"
+hash = "07f4e70862b323f2def17f0602e71d545f618430d84a5508d0718ac2e73433b4"
 
 [versions]
 fabric = "0.19.3"
