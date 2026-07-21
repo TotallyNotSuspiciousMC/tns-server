@@ -288,7 +288,7 @@ hash = "708413e6b6fd712eaa7546f9a7c9561771a218c8cf6aeaa4a461769c449dafff"
 
 [[files]]
 file = "server.properties"
-hash = "11c13086ab2141f2db3816263728cb26a432b548e76ffcd61c888b5621613786"
+hash = "54d0c3633d9f46335248cefdc5f58f9093e87c0dd3d538b69d6493de09b20642"
 
 [[files]]
 file = "squaremap/advanced.yml"
