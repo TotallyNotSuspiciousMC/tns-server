@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "af4452ea26093a559687293410739a41cfafcc13bfaa9bfa46833e41c50c5d04"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "39802e37eb58677377fcab4c041fe3fe3f526da839220492dc6cc58b73ad7dc3"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "385bb9468079a123b9683345102b291a3c81bb01268c87c751a3bc48d168d10c"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "807b325d82e3cbff63f351283912a53860f87c666427e73ffb2649b42f247a86"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "caaf3d284dd996adac6de3101f10eeaa89de02724dc659afe6266f8a364d23a6"
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "1d07aae485a2a92527e66367b656e743ec6e84471296f2f93bee163de3eb5460"
 metafile = true
@@ -188,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b1083983d7ac86c52c1bb1da749f132460c4ee9a8875e76c5244037fc1e0de73"
+metafile = true
+
+[[files]]
+file = "mods/tns-core.pw.toml"
+hash = "6a0601a3371d6dfd3c73c3c31dc41ff3163cbbd22cf9937cb8f0a8f491ad0de1"
 metafile = true
 
 [[files]]
