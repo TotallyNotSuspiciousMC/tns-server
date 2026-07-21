@@ -288,35 +288,35 @@ hash = "7a59dd464a9c29e699584255c4ff63befc081dd84bbd9ca5bd7406f760ae1259"
 metafile = true
 
 [[files]]
-file = "resources/datapack/afk display v1.1.17 (MC 26.2).zip"
+file = "resources/datapack/required/afk display v1.1.17 (MC 26.2).zip"
 hash = "ce3367617e2807746db9a5c391c218f5cabfe1eef4fd148a5b6fcf60fa911e4f"
 
 [[files]]
-file = "resources/datapack/anti enderman grief v1.1.17 (MC 26.2).zip"
+file = "resources/datapack/required/anti enderman grief v1.1.17 (MC 26.2).zip"
 hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
 
 [[files]]
-file = "resources/datapack/bat membranes v1.0.18 (MC 26.2).zip"
+file = "resources/datapack/required/bat membranes v1.0.18 (MC 26.2).zip"
 hash = "2746e2a94eceba0a3f7c4fa6c530e5ed82cb7da6f65354becb77a8f50a209f6b"
 
 [[files]]
-file = "resources/datapack/double shulker shells v1.3.17 (MC 26.2).zip"
+file = "resources/datapack/required/double shulker shells v1.3.17 (MC 26.2).zip"
 hash = "402168c4721311b678fcfbd15ad635fc8eb1ede3464e2c591c1566a9c973293e"
 
 [[files]]
-file = "resources/datapack/more mob heads v2.20.0 (MC 26.2).zip"
+file = "resources/datapack/required/more mob heads v2.20.0 (MC 26.2).zip"
 hash = "58f977bda12d097cb66fed3188f3cff1bb303569c740ba47c19d8f0d262e4611"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.17 (MC 26.2).zip"
+file = "resources/datapack/required/player head drops v1.1.17 (MC 26.2).zip"
 hash = "d57d4d6ee5a63d68d0b52cd4a18cca3b353b0b2ec9264e751a3967dc3d75b916"
 
 [[files]]
-file = "resources/datapack/silence mobs v1.2.11 (MC 26.2).zip"
+file = "resources/datapack/required/silence mobs v1.2.11 (MC 26.2).zip"
 hash = "757b50b2ab9e1859ead4dd5b7551c15f733d5a10bf44603dc4d49745e43f15d8"
 
 [[files]]
-file = "resources/datapack/vanillatweaks-recipes.pw.toml"
+file = "resources/datapack/required/vanillatweaks-recipes.pw.toml"
 hash = "34489bdc1031be7477d524220d761247b77845578f2f529878691b5a0f4de6ff"
 metafile = true
 
