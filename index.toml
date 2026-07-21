@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "018fd22df923f25d24f5a3e605127a296b75b788359d51a9772e63ef4d33f585"
-
-[[files]]
 file = "config/antixray.toml"
 hash = "8db89b5001500b48ffac10f24a13d448e323c1d0f4688e39894419292d86b5ce"
 
