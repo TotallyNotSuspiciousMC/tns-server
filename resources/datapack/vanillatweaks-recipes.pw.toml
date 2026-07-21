@@ -1,0 +1,8 @@
+name = "VanillaTweaks Recipes"
+filename = "antixray-fabric-1.4.16+26.1.jar"
+side = "server"
+
+[download]
+url = "https://vanillatweaks.net/download/VanillaTweaks_c347633_MC26.2.zip"
+hash-format = "sha512"
+hash = "da194f3a2578644a502130444e940a57891c510b6c1b5c57696a5c67bffcbb1c2708894d8b34c012396bbd4c9c55fd316a1d800d4b258534ea7e7388b345b7f6"
