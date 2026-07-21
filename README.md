@@ -2,6 +2,9 @@
 
 A modpack to manage the basic server files for the Totally Not Suspicious SMP. This is a **server-side and vanilla-compatible** modpack for Fabric 26.2.
 
+> ![NOTE]
+> This mod pack does not contain all config files used by TNS. Specifically, it does not include any 'live' or sensitive information like permission settings, and the whitelist, Discord bot and database credentials. If you want to create your own instance of TNS you will need to configure those on your local server after installing the mod pack.
+
 ## Building / Exporting
 
 This pack is managed using [packwiz](https://packwiz.infra.link/).[^1] It can be exported to a `.mrpack` for distribution using the following command:

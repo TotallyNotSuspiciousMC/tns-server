@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "af4452ea26093a559687293410739a41cfafcc13bfaa9bfa46833e41c50c5d04"
+hash = "11ecbcb80dd57a017a848d5d0aa9d52d43dff44febb5d74a17d3be11ae3e9a09"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/inv-restore.pw.toml"
-hash = "cc6244c0eef004baa6f959daed77e62c2ab4ac323c0f33239866fd42a581edd4"
+hash = "0af6e7abdf52355f0d9275ebf8d42829b524d8dc463fadb2db5fc4b8dac7a3bf"
 metafile = true
 
 [[files]]
@@ -113,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
-metafile = true
-
-[[files]]
-file = "mods/ledger-databases.pw.toml"
-hash = "5b422966b0ae2a53638c0a54e69b7968e6780ca46776c59cb7fea95968c45e3e"
 metafile = true
 
 [[files]]
@@ -239,3 +234,15 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "7a59dd464a9c29e699584255c4ff63befc081dd84bbd9ca5bd7406f760ae1259"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "11c13086ab2141f2db3816263728cb26a432b548e76ffcd61c888b5621613786"
+
+[[files]]
+file = "squaremap/advanced.yml"
+hash = "47edf032e212a2626e648e5ebc337d0f91bd9c653e81d174234682f504e3dc8a"
+
+[[files]]
+file = "squaremap/config.yml"
+hash = "8e8f054d8c755e947185dd5b4bb6f8d85e89ad3c22173f4c5fefaf1f07aeb3f0"
