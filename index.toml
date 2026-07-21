@@ -6,35 +6,35 @@ hash = "018fd22df923f25d24f5a3e605127a296b75b788359d51a9772e63ef4d33f585"
 
 [[files]]
 file = "config/antixray.toml"
-hash = "15aa257504ee845499d280d4070d4c4fec945ae547a55f4cb23d836beb8956bc"
+hash = "8db89b5001500b48ffac10f24a13d448e323c1d0f4688e39894419292d86b5ce"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a0fcf674a50b9b670c5e7eb0175755c6247832a5b7808231cc8d49de2265c6fd"
+hash = "17286387585baf97989332c9ca4cdff71ce227a19374fa500edaa1c9769ab47d"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "40871ba6cc6c7e7dee39155e942c6fb559cbe9c29d8852b5d7cb4e7dbb1c35ee"
+hash = "808c4ee9c9017cfa3596c4c152b2c2050ca2f12a49a8e305eb88c20858ce89cf"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "39802e37eb58677377fcab4c041fe3fe3f526da839220492dc6cc58b73ad7dc3"
+hash = "bca40e431fcc4b75dfb6a398d41a016feb6c1db4aef9a68fd01611afa2ca94d1"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "385bb9468079a123b9683345102b291a3c81bb01268c87c751a3bc48d168d10c"
+hash = "3f6b05ff99300a8402456d20e9dbd0550a11fabf6bae07154cfab92ca7e45d93"
 
 [[files]]
 file = "config/styledplayerlist/styles/animated.json"
-hash = "807b325d82e3cbff63f351283912a53860f87c666427e73ffb2649b42f247a86"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "caaf3d284dd996adac6de3101f10eeaa89de02724dc659afe6266f8a364d23a6"
+hash = "71addc832a6fbe294a35d8b6583f5deeec6272826675dd977c76a4aad07a737c"
 
 [[files]]
 file = "config/terralith.json"
-hash = "f1993bd80e43ddd914b772fd43422fcbfac584baaca3b3998333382cac0f7ae8"
+hash = "25d26dda5852b0fbb0124c208144e282c94864eb9892bb498cca412dafc0bbbd"
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/inv-restore.pw.toml"
-hash = "0af6e7abdf52355f0d9275ebf8d42829b524d8dc463fadb2db5fc4b8dac7a3bf"
+hash = "cc6244c0eef004baa6f959daed77e62c2ab4ac323c0f33239866fd42a581edd4"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/tns-core.pw.toml"
-hash = "6a0601a3371d6dfd3c73c3c31dc41ff3163cbbd22cf9937cb8f0a8f491ad0de1"
+hash = "c9a4ff1766675bd1174a3e0568b6d8187cd788c59fe8c1452f3b830042f149a1"
 metafile = true
 
 [[files]]
@@ -296,8 +296,8 @@ hash = "11c13086ab2141f2db3816263728cb26a432b548e76ffcd61c888b5621613786"
 
 [[files]]
 file = "squaremap/advanced.yml"
-hash = "47edf032e212a2626e648e5ebc337d0f91bd9c653e81d174234682f504e3dc8a"
+hash = "602d1f4aa8645bc91ca48d738af671c969be22dd549e6df759004f1184a6a597"
 
 [[files]]
 file = "squaremap/config.yml"
-hash = "8e8f054d8c755e947185dd5b4bb6f8d85e89ad3c22173f4c5fefaf1f07aeb3f0"
+hash = "cc43ed7bf73bca8e2d7d262360bb7b8dd9e721c4662b5a54956f18324311fd8b"
