@@ -5,6 +5,10 @@ file = "README.md"
 hash = "018fd22df923f25d24f5a3e605127a296b75b788359d51a9772e63ef4d33f585"
 
 [[files]]
+file = "config/antixray.toml"
+hash = "15aa257504ee845499d280d4070d4c4fec945ae547a55f4cb23d836beb8956bc"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "a0fcf674a50b9b670c5e7eb0175755c6247832a5b7808231cc8d49de2265c6fd"
 
@@ -281,6 +285,10 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "7a59dd464a9c29e699584255c4ff63befc081dd84bbd9ca5bd7406f760ae1259"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "708413e6b6fd712eaa7546f9a7c9561771a218c8cf6aeaa4a461769c449dafff"
 
 [[files]]
 file = "server.properties"
