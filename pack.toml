@@ -1,0 +1,13 @@
+name = "Tns Server"
+author = "TheDeathlyCow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "21010e5aa387aaf98db3c080308e61a78c72163d136c6b1a9bb68da82b328dfc"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

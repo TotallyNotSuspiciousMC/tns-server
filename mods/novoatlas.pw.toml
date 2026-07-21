@@ -1,0 +1,13 @@
+name = "NovoAtlas"
+filename = "novoatlas-fabric-1.7.3+26.2.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yh3a3Yc8/versions/8a01tjRU/novoatlas-fabric-1.7.3%2B26.2.x.jar"
+hash-format = "sha512"
+hash = "b6d19c7bb41bc2867bab76636bfadfb80ffcf6ccbf26ff2b507ed63c5c3f17926eb0a6737cfd2b91d23adce5412ab4cdd9a2df28bd0ad5c4c70e9dd546aaa606"
+
+[update]
+[update.modrinth]
+mod-id = "yh3a3Yc8"
+version = "8a01tjRU"

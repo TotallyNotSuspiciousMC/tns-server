@@ -1,0 +1,13 @@
+name = "Snow Under Trees"
+filename = "snowundertrees-fabric-26.1.2-1.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q3vyMuj2/versions/ubJYO77l/snowundertrees-fabric-26.1.2-1.6.1.jar"
+hash-format = "sha512"
+hash = "88b3ebd17b1844dc7586921bf1b9fc09e6d904f4f35bee3cc4690a42696207c665a7a4e8a2db2609a5a717f1807dee85c3d0443b03b0acaa9318a31c75d0066c"
+
+[update]
+[update.modrinth]
+mod-id = "Q3vyMuj2"
+version = "ubJYO77l"
