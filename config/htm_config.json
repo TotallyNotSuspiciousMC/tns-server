@@ -1,0 +1,11 @@
+{
+  "can_trusted_players_break_chests": false,
+  "default_flags": {
+    "overrides": {},
+    "default": {
+      "hoppers": true,
+      "copper_golems": true
+    }
+  },
+  "auto_locking_containers": {}
+}

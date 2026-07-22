@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/antixray.toml"
-hash = "8db89b5001500b48ffac10f24a13d448e323c1d0f4688e39894419292d86b5ce"
+hash = "6150aa87a0c28414d2760fc4db57d7122eb530072a86677fde0d88d7179f2796"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "17286387585baf97989332c9ca4cdff71ce227a19374fa500edaa1c9769ab47d"
+
+[[files]]
+file = "config/htm_config.json"
+hash = "c7356c34c4dc961c90b3581c8932af53604692eff754d4473fda83c2f6336b00"
 
 [[files]]
 file = "config/polymer/auto-host.json"

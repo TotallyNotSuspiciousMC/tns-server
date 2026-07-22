@@ -5,7 +5,7 @@ enabled = false
 
 # World specific values
 [overworld]
-enabled = true
+enabled = false
 engineMode = 3
 maxBlockHeight = 256
 updateRadius = 4
