@@ -30,7 +30,7 @@ hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "71addc832a6fbe294a35d8b6583f5deeec6272826675dd977c76a4aad07a737c"
+hash = "d9c35089fc0b6ad1e14c80257af67eac465d059bc5a064cc0384ae5d77d03312"
 
 [[files]]
 file = "config/terralith.json"
