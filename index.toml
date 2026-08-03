@@ -37,6 +37,11 @@ file = "config/terralith.json"
 hash = "25d26dda5852b0fbb0124c208144e282c94864eb9892bb498cca412dafc0bbbd"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "ca757ef7e1932448b3f6306dc7eda1a0bda1b4effbc8a30c7a92904c7cae9434"
+metafile = true
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "1d07aae485a2a92527e66367b656e743ec6e84471296f2f93bee163de3eb5460"
 metafile = true
@@ -330,7 +335,7 @@ hash = "708413e6b6fd712eaa7546f9a7c9561771a218c8cf6aeaa4a461769c449dafff"
 
 [[files]]
 file = "server.properties"
-hash = "edec92708b30e64e5eace233ba558d4c4cdd9a2c7234312bf7cf7a956aa63505"
+hash = "bf8f88e89b70f854dcc82bdc0ab52d0fb900d00ceb0c497c27ec80c90d8456fa"
 
 [[files]]
 file = "squaremap/advanced.yml"
