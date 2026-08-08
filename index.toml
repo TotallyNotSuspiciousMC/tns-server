@@ -297,6 +297,14 @@ hash = "7a59dd464a9c29e699584255c4ff63befc081dd84bbd9ca5bd7406f760ae1259"
 metafile = true
 
 [[files]]
+file = "resources/datapack/required/BiggerNether/data/minecraft/dimension_type/the_nether.json"
+hash = "20d9532dcdeca2970dc4d2efaca0897320367ff42bf346288a570e95b72cad4b"
+
+[[files]]
+file = "resources/datapack/required/BiggerNether/pack.mcmeta"
+hash = "1d0b0df3aec3361b02d691c1f035e6f34817732c122fd59cb6138923b3dd39a5"
+
+[[files]]
 file = "resources/datapack/required/afk display v1.1.17 (MC 26.2).zip"
 hash = "ce3367617e2807746db9a5c391c218f5cabfe1eef4fd148a5b6fcf60fa911e4f"
 
