@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/antixray.toml"
-hash = "6150aa87a0c28414d2760fc4db57d7122eb530072a86677fde0d88d7179f2796"
+hash = "feabbf748c9841e6a3ef542fa220b9cb45ffde8b5e792d7452ad1e6065e36db4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
