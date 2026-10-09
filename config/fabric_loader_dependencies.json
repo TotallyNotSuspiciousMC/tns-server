@@ -5,6 +5,11 @@
       "-breaks": {
         "sodium": "*"
       }
+    },
+    "terralith": {
+      "-depends": {
+        "lithostitched": "*"
+      }
     }
   }
 }
