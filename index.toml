@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/tns-core.pw.toml"
-hash = "04568e424c48a6032ca82353358172290538d53a6410bd53ec941baf70aa53cc"
+hash = "b9ff14ec26aa0e293a62ce57c12738b41a99a6221a7324225200c7f0930fd556"
 metafile = true
 
 [[files]]
