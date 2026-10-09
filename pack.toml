@@ -1,6 +1,6 @@
-name = "Tns Server"
+name = "TNS Server"
 author = "TheDeathlyCow"
-version = "1.3.0"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
