@@ -192,6 +192,11 @@ hash = "887b2194541f0d55ab4dc330f64ed19b89bfa463c56fa5802fbc3aefda4e5ef6"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
+metafile = true
+
+[[files]]
 file = "mods/polymer-qol.pw.toml"
 hash = "448650594c7fc779f5697f7d39c3750b36c9ec6e5c9301b7801d3af5724c7f10"
 metafile = true
