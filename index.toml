@@ -72,11 +72,6 @@ hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "2bf2f43fd78e20f081bccf9e4fd482a2f67c1fdc2cf33727eba3b8cada9ed6e0"
-metafile = true
-
-[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "eb5c8432a7acfef7e7a0760bef5730a31ce990b0bdde67d527ef8a157777c83b"
 metafile = true
@@ -177,11 +172,6 @@ hash = "a7d845a03ac1fbb25aa1a253de111a17e4bfaf45ea43dc2b3ec4a7a63e125695"
 metafile = true
 
 [[files]]
-file = "mods/minitweaks.pw.toml"
-hash = "4fcadc747a4fa9cde329150418422af0adb30dc3083f3cfea1d5cc3ad49ba392"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
 metafile = true
@@ -279,16 +269,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "d76577eb98ad277432d1f1f436d8dded1ec35401d32368c4e3cde52f5acc80ea"
-metafile = true
-
-[[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "5af5b37765d2ba26a6e4ec8be0dd8bd6215ce0b05d98dc6dc9b3050341d94e70"
 metafile = true
 
 [[files]]
