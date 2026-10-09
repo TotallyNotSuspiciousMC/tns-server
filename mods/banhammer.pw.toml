@@ -1,13 +1,13 @@
 name = "BanHammer"
-filename = "banhammer-0.18.0+26.2.jar"
+filename = "banhammer-0.19.0+26.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wpqg0ciI/versions/xUgGCfIR/banhammer-0.18.0%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/Wpqg0ciI/versions/1BJyGiA7/banhammer-0.19.0%2B26.3.jar"
 hash-format = "sha512"
-hash = "39ba450405ed8891763eeda8da6466dbf76dfbdd7cb55b705451d83e39f594722e106d6a62053b6809361f2c4e58d37101dfc45ab5c0f77ef09b9f4907cc2b18"
+hash = "63f146aff7670909e8b87e1903e55ae91633938f754c485251934b34900cc5ec7079757391db98d0e0bd9b6523fa2162928b2d7a3e7d48d89ed18a676db62ea1"
 
 [update]
 [update.modrinth]
 mod-id = "Wpqg0ciI"
-version = "xUgGCfIR"
+version = "1BJyGiA7"
