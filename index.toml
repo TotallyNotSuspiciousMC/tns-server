@@ -278,44 +278,43 @@ metafile = true
 
 [[files]]
 file = "resources/datapack/required/BiggerNether/data/minecraft/dimension_type/the_nether.json"
-hash = "20d9532dcdeca2970dc4d2efaca0897320367ff42bf346288a570e95b72cad4b"
+hash = "0677db9b4a6aaf67cd55f40d29f276f0418b8bbb26df35078a9dcd7639b17cb4"
 
 [[files]]
 file = "resources/datapack/required/BiggerNether/pack.mcmeta"
 hash = "04310487f548392d93ffbeb9c13c3165d8abbd5269a92091fad5a36468a5fd13"
 
 [[files]]
-file = "resources/datapack/required/afk display v1.1.17 (MC 26.2).zip"
-hash = "ce3367617e2807746db9a5c391c218f5cabfe1eef4fd148a5b6fcf60fa911e4f"
+file = "resources/datapack/required/VanillaTweaks_c358317_MC26.3.zip"
+hash = "2a5b85fbe78603d6b2669e5119917be6aacf8ea617b835edacaf785317f702ac"
 
 [[files]]
-file = "resources/datapack/required/anti enderman grief v1.1.17 (MC 26.2).zip"
-hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
+file = "resources/datapack/required/afk display v1.1.18 (MC 26.3).zip"
+hash = "2a5571359bba93cd463b8ccebd06490470ddf77618bf1643c4c23dae041052bd"
 
 [[files]]
-file = "resources/datapack/required/bat membranes v1.0.18 (MC 26.2).zip"
-hash = "2746e2a94eceba0a3f7c4fa6c530e5ed82cb7da6f65354becb77a8f50a209f6b"
+file = "resources/datapack/required/anti enderman grief v1.1.18 (MC 26.3).zip"
+hash = "0cbd1bc8ec748f5ba09fd108f42b8272175e59f4504697b1f699be0f1427365f"
 
 [[files]]
-file = "resources/datapack/required/double shulker shells v1.3.17 (MC 26.2).zip"
-hash = "402168c4721311b678fcfbd15ad635fc8eb1ede3464e2c591c1566a9c973293e"
+file = "resources/datapack/required/bat membranes v1.0.19 (MC 26.3).zip"
+hash = "ae3798552c0d558347cd5c206c91f649f2e421627a61171d9ff15fe3e259c26c"
 
 [[files]]
-file = "resources/datapack/required/more mob heads v2.20.0 (MC 26.2).zip"
-hash = "58f977bda12d097cb66fed3188f3cff1bb303569c740ba47c19d8f0d262e4611"
+file = "resources/datapack/required/double shulker shells v1.3.18 (MC 26.3).zip"
+hash = "b3b93593b38a5e340098197217c28be0560c3e1698448fec9186624dacf0d332"
 
 [[files]]
-file = "resources/datapack/required/player head drops v1.1.17 (MC 26.2).zip"
-hash = "d57d4d6ee5a63d68d0b52cd4a18cca3b353b0b2ec9264e751a3967dc3d75b916"
+file = "resources/datapack/required/more mob heads v2.20.1 (MC 26.3).zip"
+hash = "0d393660372f81fa7a885e5e22632a8ecf0921aa26239e14ce064eb354c14e84"
 
 [[files]]
-file = "resources/datapack/required/silence mobs v1.2.11 (MC 26.2).zip"
-hash = "757b50b2ab9e1859ead4dd5b7551c15f733d5a10bf44603dc4d49745e43f15d8"
+file = "resources/datapack/required/player head drops v1.1.18 (MC 26.3).zip"
+hash = "b616fa81c642238996fef71adce2ab09df68b9a3c28980f2e978f2c6b7ac25d6"
 
 [[files]]
-file = "resources/datapack/required/vanillatweaks-recipes.pw.toml"
-hash = "34489bdc1031be7477d524220d761247b77845578f2f529878691b5a0f4de6ff"
-metafile = true
+file = "resources/datapack/required/silence mobs v1.2.12 (MC 26.3).zip"
+hash = "ece6596ff48c7d16cd81b10fb65afb0f4a423344603e63f1bcdf77842bc10b8a"
 
 [[files]]
 file = "server-icon.png"
