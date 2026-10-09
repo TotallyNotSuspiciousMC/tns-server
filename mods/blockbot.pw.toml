@@ -1,0 +1,13 @@
+name = "BlockBot"
+filename = "blockbot-discord-2.0.10+26.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yKZ9outG/versions/D1mFQ994/blockbot-discord-2.0.10%2B26.3.jar"
+hash-format = "sha512"
+hash = "ae28d945b4dfe8ad3487f1f97ddf2a72a5d6f537e4ed30f991913e8258762d344b4c4ef2b9deb1063b269bfb05b997eda11e23f02121b416af5ba8be6ec4aa1e"
+
+[update]
+[update.modrinth]
+mod-id = "yKZ9outG"
+version = "D1mFQ994"

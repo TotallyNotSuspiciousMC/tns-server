@@ -67,6 +67,11 @@ hash = "5ca3ce1e2faf3d9d6496638b3c863d03cfe493e8465281182fcd1f26dbc97278"
 metafile = true
 
 [[files]]
+file = "mods/blockbot.pw.toml"
+hash = "90e0a0aececd75e59f09643cd0069c806e0bf44fe276e5f4b257fe6264c80888"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
 metafile = true
