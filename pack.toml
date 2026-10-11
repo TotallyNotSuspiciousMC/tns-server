@@ -1,6 +1,6 @@
 name = "TNS Server"
 author = "TheDeathlyCow"
-version = "1.4.0"
+version = "1.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -11,3 +11,6 @@ hash = "5e9032520512365356c811a479d2d3bfd0dd9397924eb3149718ac69a4de0cbe"
 [versions]
 fabric = "0.19.5"
 minecraft = "26.3"
+
+[options]
+acceptable-game-versions = ["26.2", "26.3"]
