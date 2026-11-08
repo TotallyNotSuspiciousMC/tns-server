@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c973d87a1a9284b0cca0700167b7ba0d4c26b5e7f30ed66246e412772d79508f"
+hash = "946945264841b22d8c50ead24c2af2913ccefc28b2edbda2064fcabb950401d0"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f3c9e535877655039b25cf47a1feab13a4319cb49b84b7504050b3a5de40efeb"
+hash = "f4c7c038c07a70112f53d904eb730ce3ca2af7c6b8caba4437b1d88dc9df395b"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "4559bae692a7d7b5c675f0ea199c4dd3506b9f14889748dc029abbfb605e5f7a"
+hash = "c2b34e0c7fb9589b7fde83f0764998afc7f46024f58850b908c3a280c0a1bd3c"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "014c8f8c8defcda9f7a6f1bd4a970d57828f9cd17ab131d5296f49a18dbb85c1"
+hash = "d2bbbe8eadb79fc43e7e7f8ec58917d510f44c0a6fabe0ee01860228a7e0a79d"
 metafile = true
 
 [[files]]
