@@ -282,6 +282,16 @@ hash = "515239c7c11d4f73b153507862843eef39afbe78d7e1b23eb10296a328a49e78"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "19ae82550e2d7e5a444bb3c5c49777ecf6dfd6334e286ad499ca17235587d2ed"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "a0611008e0f0fff19d2982c553843f656e2b99de686e75d71a190c70a9e16988"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "1adf566c901166db733f5758819a3dbdc6414f38e5cd80dd9c3a11f25c27ecc6"
 metafile = true
